@@ -1,0 +1,22 @@
+NOTHING EQUALS
+UNORDERED
+REVERSE
+red: 5678
+orange: 123
+yellow: 10
+green: 0
+blue: -128
+purple: 1234
+
+
+Testcase Variable Dump:
+5678
+123
+10
+0
+-128
+1234
+1
+1
+1
+1

@@ -1,0 +1,22 @@
+EQUALS
+DESCENDING
+REVERSE
+red: -65536
+orange: -10
+yellow: 0
+green: 0
+blue: 99
+purple: 100
+
+
+Testcase Variable Dump:
+-65536
+-10
+0
+0
+99
+100
+1
+1
+1
+1

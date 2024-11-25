@@ -1,0 +1,20 @@
+ASCENDING
+red: 1
+orange: 27
+yellow: 111
+green: 150
+blue: 555
+purple: 999
+
+
+Testcase Variable Dump:
+1
+27
+111
+150
+555
+999
+0
+1
+0
+1

@@ -1,0 +1,20 @@
+DESCENDING
+red: 4444
+orange: 333
+yellow: 222
+green: 150
+blue: 27
+purple: 1
+
+
+Testcase Variable Dump:
+4444
+333
+222
+150
+27
+1
+0
+1
+0
+1

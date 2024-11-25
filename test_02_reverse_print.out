@@ -1,0 +1,20 @@
+REVERSE
+red: 888
+orange: 9999
+yellow: 1
+green: 22
+blue: 333
+purple: 4444
+
+
+Testcase Variable Dump:
+888
+9999
+1
+22
+333
+4444
+0
+0
+1
+1
